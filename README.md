@@ -222,14 +222,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Emotion dataset from [Kaggle/Source]
+- Emotion dataset from [(https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp)].
 - Spotify for music embed API
 - YouTube for video content
 - Streamlit community for amazing framework
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+Cakra Anugrah Jhody - [cakranugrah@gmail.com).
 
 Project Link: [https://github.com/yourusername/mood-music-recommender](https://github.com/yourusername/mood-music-recommender)
 
