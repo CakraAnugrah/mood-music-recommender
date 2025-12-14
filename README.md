@@ -46,7 +46,7 @@ A beautiful web application that analyzes your emotions through text and provide
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/mood-music-recommender.git
+git clone https://github.com/CakraAnugrah/mood-music-recommender.git
 cd mood-music-recommender
 ```
 
@@ -212,14 +212,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
-
+- **Cakra Anugrah** 
 ## 🙏 Acknowledgments
 
 - Emotion dataset from [(https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp)].
@@ -231,7 +226,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Cakra Anugrah Jhody - [cakranugrah@gmail.com).
 
-Project Link: [https://github.com/yourusername/mood-music-recommender](https://github.com/yourusername/mood-music-recommender)
+Project Link: (https://github.com/CakraAnugrah/mood-music-recommender)
 
 ---
 
